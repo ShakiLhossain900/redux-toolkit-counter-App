@@ -9,3 +9,7 @@ function App() {
 }
 
 export default App;
+
+
+
+//redux y counter slice means collection of logic 1. increment 2. decrement this kind of logic  
